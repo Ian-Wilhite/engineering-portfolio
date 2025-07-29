@@ -1,0 +1,9 @@
+\contentsline {section}{Table of Contents}{1}{section*.1}%
+\contentsline {section}{\numberline {1}Autonomous Aerospace Systems}{2}{section.1}%
+\contentsline {section}{\numberline {2}Dynamics and Vibrations}{51}{section.2}%
+\contentsline {section}{\numberline {3}Numerical Methods (4th Place in Final Competition)}{77}{section.3}%
+\contentsline {section}{\numberline {4}SEC Ignite Competition (3rd Place)}{115}{section.4}%
+\contentsline {section}{\numberline {5}Mechanical Modeling}{132}{section.5}%
+\contentsline {section}{\numberline {6}Mechanical Measurements}{145}{section.6}%
+\contentsline {section}{\numberline {7}Solid Mechanics}{155}{section.7}%
+\contentsline {section}{\numberline {8}NASA L'SPACE Mission Concept Academy (MCA)}{183}{section.8}%
